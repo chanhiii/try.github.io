@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+.cover1{
+  background:url(../img/greendrink.png);
+  background-size:cover;
+}
+
+.cover{
+  background:url(../img/child-laugh.png);
+  background-size:cover;
+}
+
+.container, .head{
+  background-color:white;
+  opacity:0.9;
+}
+
+.face{
+  height:90%;
+  width:90%;
+}
